@@ -1,0 +1,11 @@
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.exe.config
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.exe
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.pdb
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csprojAssemblyReference.cache
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.Form1.resources
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.Properties.Resources.resources
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csproj.GenerateResource.cache
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.exe
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.pdb
+C:\Users\vsamo\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\ZoomPad.Form1.resources
